@@ -1,2 +1,2 @@
 # digital_subscription_hub
- this is just testing
+ this is just testings
