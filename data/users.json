@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "name": "Abhishek",
+      "email": "abhishek.23cse@cambridge.edu.in",
+      "createdAt": "2025-10-02T09:00:00Z"
+    },
+    {
+      "userId": 2,
+      "name": "Akash",
+      "email": "akash.23cse@cambridge.edu.in",
+      "createdAt": "2025-09-02T09:05:30Z"
+    },
+    {
+      "userId": 3,
+      "name": "Ajith",
+      "email": "ajit.23cse@cambridge.edu.in",
+      "createdAt": "2024-10-02T09:12:10Z"
+    },
+    {
+      "userId": 4,
+      "name": "Akshay",
+      "email": "akshay.23cse@cambridge.edu.in",
+      "createdAt": "2025-10-02T09:20:45Z"
+    }
+  ]
+}

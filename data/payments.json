@@ -1,0 +1,54 @@
+{
+  "payments": [
+    {
+      "paymentId": 1501,
+      "subscriptionId": 1001,
+      "amount": 897,
+      "currency": "INR",
+      "paymentDate": "2025-10-02T10:05:10Z",
+      "status": "success",
+      "method": "UPI",
+      "transactionRef": "TXN1001UPI897"
+    },
+    {
+      "paymentId": 1502,
+      "subscriptionId": 1002,
+      "amount": 350,
+      "currency": "INR",
+      "paymentDate": "2025-10-01T09:00:00Z",
+      "status": "success",
+      "method": "card",
+      "transactionRef": "TXN1002CARD350"
+    },
+    {
+      "paymentId": 1503,
+      "subscriptionId": 1003,
+      "amount": 3000,
+      "currency": "INR",
+      "paymentDate": "2025-09-15T08:30:00Z",
+      "status": "success",
+      "method": "netbanking",
+      "transactionRef": "TXN1003NB3000"
+    },
+    {
+      "paymentId": 1504,
+      "subscriptionId": 1004,
+      "amount": 350,
+      "currency": "INR",
+      "paymentDate": "2025-10-02T10:10:00Z",
+      "status": "failed",
+      "method": "card",
+      "transactionRef": "TXN1004CARD350"
+    },
+    {
+      "paymentId": 1505,
+      "subscriptionId": 1005,
+      "amount": 0,
+      "currency": "INR",
+      "paymentDate": "2025-10-01T09:15:00Z",
+      "status": "success",
+      "method": "trial",
+      "transactionRef": "TXN1005TRIAL0"
+    }
+  ]
+}

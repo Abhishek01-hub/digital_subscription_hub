@@ -1,0 +1,49 @@
+{
+  "subscriptions": [
+    {
+      "subscriptionId": 1001,
+      "userId": 3,
+      "serviceId": 502,
+      "planType": "standard",
+      "startDate": "2025-10-02T10:05:10Z",
+      "endDate": "2026-01-02T10:05:10Z",
+      "status": "active"
+    },
+    {
+      "subscriptionId": 1002,
+      "userId": 1,
+      "serviceId": 501,
+      "planType": "monthly",
+      "startDate": "2025-10-03T09:00:00Z",
+      "endDate": "2025-11-03T09:00:00Z",
+      "status": "active"
+    },
+    {
+      "subscriptionId": 1003,
+      "userId": 2,
+      "serviceId": 503,
+      "planType": "annual",
+      "startDate": "2025-10-01T08:30:00Z",
+      "endDate": "2026-10-01T08:30:00Z",
+      "status": "active"
+    },
+    {
+      "subscriptionId": 1004,
+      "userId": 4,
+      "serviceId": 504,
+      "planType": "monthly",
+      "startDate": "2025-10-02T10:10:00Z",
+      "endDate": "2025-11-02T10:10:00Z",
+      "status": "active"
+    },
+    {
+      "subscriptionId": 1005,
+      "userId": 1,
+      "serviceId": 505,
+      "planType": "trial",
+      "startDate": "2025-10-02T09:15:00Z",
+      "endDate": "2025-10-09T09:15:00Z",
+      "status": "active"
+    }
+  ]
+}

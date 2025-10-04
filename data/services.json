@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "serviceId": 501,
+      "name": "Netflix",
+      "description": "Stream movies, series, and documentaries",
+      "basePrice": 350
+    },
+    {
+      "serviceId": 502,
+      "name": "Amazon Prime",
+      "description": "Prime Video, fast delivery, music, and more",
+      "basePrice": 299
+    },
+    {
+      "serviceId": 503,
+      "name": "LinkedIn Premium",
+      "description": "Advanced job insights, InMail, and learning courses",
+      "basePrice": 300
+    },
+    {
+      "serviceId": 504,
+      "name": "LeetCode Premium",
+      "description": "Premium coding problems, company tags, and interview prep",
+      "basePrice": 350
+    },
+    {
+      "serviceId": 505,
+      "name": "Spotify",
+      "description": "Stream music with free and premium options",
+      "basePrice": 119
+    }
+  ]
+}
